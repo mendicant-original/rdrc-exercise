@@ -1,0 +1,35 @@
+## Building a game in an hour or less
+
+In this exercise, you'll work within your group to build any game that you'd
+like. The catch is that you need to try to make the code as good as possible
+while simultaneously keeping in mind that you have only an hour or so to
+complete your task. If this task sounds daunting, the following guidelines might
+help.
+
+  * Your game does not need to be anything complex. You should pick as simple of
+    a project as necessary in order to make it possible for your team to ship
+    working code by the end of the session.
+
+  * Try to pick a project that all of your team members can contribute to and
+    help review, even if one of you does most of the driving.
+
+  * If you can break off a minimal subset of functionality that still does
+    something interesting, feel free to do that instead of building a fully
+    functional game.
+
+  * Keep in mind that the purpose of this project is for you to develop enough
+    Ruby code for us to review and give you some feedback on. Don't spend too
+    much time thinking about which project to work on, and don't work on new
+    features up to the last minute.
+
+  * Ask for help early and often. We will spend as much time as we can with
+    each group helping out with adhoc questions as they arise.
+
+  * You're encouraged to call us over to listen to your idea before you begin
+    hacking on it, to help figure out if it's going to be a good fit for
+    this exercise.
+
+  * Simple but neatly wrapped up is better than complex but half-done.
+
+  * Remember to have fun! Other sessions are probably doing some sort of 
+    SERIOUS BUSINESS right now, while you write games :)
